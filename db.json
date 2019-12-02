@@ -3,207 +3,181 @@
     "date_start": "11/20/2019",
     "date_end": "11/22/2019",
     "hours": 24,
-    "description": "description",
     "approver": "aprover",
     "approver_description": "aprover descrition"
   },
   {
     "date_start": "08/01/2019",
     "date_end": "08/08/2019",
-    "hours": 40,
-    "description": "description",
+    "hours": 40,    
     "approver": "aprover",
     "approver_description": "aprover descrition"
   },
   {
     "date_start": "05/01/2019",
     "date_end": "05/08/2019",
-    "hours": 10,
-    "description": "description",
+    "hours": 10,    
     "approver": "aprover",
     "approver_description": "aprover descrition"
   },
   {
     "date_start": "04/01/2019",
     "date_end": "04/08/2019",
-    "hours": 20,
-    "description": "description",
+    "hours": 20,    
     "approver": "aprover",
     "approver_description": "aprover descrition"
   },
   {
     "date_start": "02/01/2019",
     "date_end": "02/08/2019",
-    "hours": 50,
-    "description": "description",
+    "hours": 50,   
     "approver": "aprover",
     "approver_description": "aprover descrition"
   },
   {
     "date_start": "02/01/2019",
     "date_end": "02/08/2019",
-    "hours": 50,
-    "description": "description",
+    "hours": 50,    
     "approver": "aprover",
     "approver_description": "aprover descrition"
   },
   {
     "date_start": "02/01/2019",
     "date_end": "02/08/2019",
-    "hours": 25,
-    "description": "description",
+    "hours": 25,    
     "approver": "aprover",
     "approver_description": "aprover descrition"
   },
   {
     "date_start": "02/01/2019",
     "date_end": "02/08/2019",
-    "hours": 30,
-    "description": "description",
+    "hours": 30,    
     "approver": "aprover",
     "approver_description": "aprover descrition"
   },
   {
     "date_start": "02/01/2019",
     "date_end": "02/08/2019",
-    "hours": 35,
-    "description": "description",
+    "hours": 35,    
     "approver": "aprover",
     "approver_description": "aprover descrition"
   },
   {
     "date_start": "02/01/2019",
     "date_end": "02/08/2019",
-    "hours": 50,
-    "description": "description",
+    "hours": 50,   
     "approver": "aprover",
     "approver_description": "aprover descrition"
   },
   {
     "date_start": "02/01/2019",
     "date_end": "02/08/2019",
-    "hours": 60,
-    "description": "description",
+    "hours": 60,   
     "approver": "aprover",
     "approver_description": "aprover descrition"
   },
   {
     "date_start": "02/01/2019",
     "date_end": "02/08/2019",
-    "hours": 80,
-    "description": "description",
+    "hours": 80,   
     "approver": "aprover",
     "approver_description": "aprover descrition"
   },
   {
     "date_start": "02/01/2019",
     "date_end": "02/08/2019",
-    "hours": 0,
-    "description": "description",
+    "hours": 0,   
     "approver": "aprover",
     "approver_description": "aprover descrition"
   },
   {
     "date_start": "02/01/2019",
     "date_end": "02/08/2019",
-    "hours": 50,
-    "description": "description",
+    "hours": 50,   
     "approver": "aprover",
     "approver_description": "aprover descrition"
   },
   {
     "date_start": "02/01/2019",
     "date_end": "02/08/2019",
-    "hours": 50,
-    "description": "description",
+    "hours": 50,   
     "approver": "aprover",
     "approver_description": "aprover descrition"
   },
   {
     "date_start": "02/01/2019",
     "date_end": "02/08/2019",
-    "hours": 50,
-    "description": "description",
+    "hours": 50,   
     "approver": "aprover",
     "approver_description": "aprover descrition"
   },
   {
     "date_start": "02/01/2019",
     "date_end": "02/08/2019",
-    "hours": 50,
-    "description": "description",
+    "hours": 50,    
     "approver": "aprover",
     "approver_description": "aprover descrition"
   },
   {
     "date_start": "02/01/2019",
     "date_end": "02/08/2019",
-    "hours": 50,
-    "description": "description",
+    "hours": 50,   
     "approver": "aprover",
     "approver_description": "aprover descrition"
   },
   {
     "date_start": "02/01/2019",
     "date_end": "02/08/2019",
-    "hours": 50,
-    "description": "description",
+    "hours": 50,    
     "approver": "aprover",
     "approver_description": "aprover descrition"
   },
   {
     "date_start": "02/01/2019",
     "date_end": "02/08/2019",
-    "hours": 50,
-    "description": "description",
+    "hours": 50,    
     "approver": "aprover",
     "approver_description": "aprover descrition"
   },
   {
     "date_start": "02/01/2019",
     "date_end": "02/08/2019",
-    "hours": 50,
-    "description": "description",
+    "hours": 50,    
     "approver": "aprover",
     "approver_description": "aprover descrition"
   },
   {
     "date_start": "02/01/2019",
     "date_end": "02/08/2019",
-    "hours": 50,
-    "description": "description",
+    "hours": 50,    
     "approver": "aprover",
     "approver_description": "aprover descrition"
   },
   {
     "date_start": "02/01/2019",
     "date_end": "02/08/2019",
-    "hours": 0,
-    "description": "description",
+    "hours": 0,    
     "approver": "aprover",
     "approver_description": "aprover descrition"
   },
   {
     "date_start": "02/01/2019",
     "date_end": "02/08/2019",
-    "hours": 10,
-    "description": "description",
+    "hours": 10,    
     "approver": "aprover",
     "approver_description": "aprover descrition"
   },
   {
     "date_start": "02/01/2019",
     "date_end": "02/08/2019",
-    "hours": 40,
-    "description": "description",
+    "hours": 40,    
     "approver": "aprover",
     "approver_description": "aprover descrition"
   },
   {
     "date_start": "02/01/2019",
     "date_end": "02/08/2019",
-    "hours": 150,
-    "description": "description",
+    "hours": 150,    
     "approver": "aprover",
     "approver_description": "aprover descrition"
   }
